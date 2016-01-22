@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Platypus Papers]]></title>
         <description><![CDATA[Platypus Papers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/platypus-papers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 23:15:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 23:17:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/platypus-papers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Aspen leaves in the fall</p>]]></description>
-            <link>undefinedbc9b8e95-3f12-4dde-9c7c-8b2aba2da21d/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43249225-52de-48c7-887f-e8113d75757e.JPG">]]></description>
+            <link>https://thegrid.ai/platypus-papers/bc9b8e95-3f12-4dde-9c7c-8b2aba2da21d/index.html</link>
             <guid isPermaLink="false">bc9b8e95-3f12-4dde-9c7c-8b2aba2da21d</guid>
-            <pubDate>Fri, 22 Jan 2016 23:15:38 GMT</pubDate>
+            <pubDate>Fri, 22 Jan 2016 23:17:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
