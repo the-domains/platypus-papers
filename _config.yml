@@ -1,7 +1,7 @@
 name: Platypus Papers
 favicon: null
-layout_spectrum: 0.7589605844113976
-typography_spectrum: 0.6951561411842704
+layout_spectrum: 0.61268
+typography_spectrum: 0.5616
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5898733073845506
+    - '#240c18'
+    - '#815d67'
+    - '#fffef8'
+    - '#ffff0f'
+    - '#d733c6'
+  brandStrength: 0.6875
   lightness: 0.6874857684597373
-  saturation: 0.5731406768318266
+  saturation: 0.6875
   rhythmicContrast: 0.0944206565618515
 purpose: []
